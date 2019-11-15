@@ -1,0 +1,5 @@
+Coverage: go test -cover
+
+Verbose Output: go test -v0
+
+Output: go test -coverprofile=coverage.out
